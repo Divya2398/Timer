@@ -1,0 +1,48 @@
+.timer-head {
+    background-color: rgb(85, 84, 84);
+    font-size: 32px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    height: 80px;
+  }
+  
+  .timer-body {
+    background-color: rgb(236, 203, 17);
+    padding: 30px 70px;
+    /* height: 75vh; */
+  }
+  
+  .timer-icon-block {
+    height: 300px;
+    background-color: rgb(226, 226, 123);
+    margin-bottom: 20px;
+  }
+  
+  .timer-result-block {
+    margin-top: 20px;
+    min-height: 300px;
+    background-color: rgb(226, 226, 123);
+  }
+  
+  .result-head {
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(112, 111, 111);
+    text-align: center;
+  }
+  
+  .no-result {
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+  }
+  
+  .icon-cal {
+    font-size: 100px;
+    /* text-align: center; */
+  }
+  
+  .show-time {
+    background-color: rgba(78, 76, 76, 0.445);
+    color: #fff;
+  }
